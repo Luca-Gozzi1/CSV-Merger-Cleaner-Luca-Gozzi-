@@ -16,14 +16,12 @@ To maximize real world relevance, this project is designed for professionals who
 - Technology consulting teams specializing in supply chain digitalization  
 - Vendor relationship or quality managers evaluating supplier performance  
 
-**Ultimate Goal:**  
-The project aims to deliver a practical, modular tool that automates CSV integration and analysis across fragmented supply chain systems. By solving tangible issues—such as inventory imbalances, delayed shipments, and subjective vendor assessments the tool enables managers to make faster, data-driven decisions, resulting in:
+**Ultimate Goal:** The project aims to deliver a practical, modular tool that automates CSV integration and analysis across fragmented supply chain systems. By solving tangible issues—such as inventory imbalances, delayed shipments, and subjective vendor assessments the tool enables managers to make faster, data-driven decisions, resulting in:
 - Reduced inventory costs and shortages
 - Improved shipment punctuality
 - Transparent and objective vendor evaluations
 
-**Impact:**  
-This solution directly addresses the needs of organizations struggling with data fragmentation, unifying heterogeneous data sources to provide actionable insights. The expected impact includes cost savings, operational efficiency, and enhanced strategic management. As supply chains become more complex and global, this kind of tool is increasingly vital for competitive advantage.
+**Impact:** This solution directly addresses the needs of organizations struggling with data fragmentation, unifying heterogeneous data sources to provide actionable insights. The expected impact includes cost savings, operational efficiency, and enhanced strategic management. As supply chains become more complex and global, this kind of tool is increasingly vital for competitive advantage.
 
 ## Problem Statement and Motivation
 
