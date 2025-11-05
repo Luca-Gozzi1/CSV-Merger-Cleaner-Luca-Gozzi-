@@ -1,7 +1,7 @@
 # CSV Data Explorer for Supply Chain Intelligence
 **Category:** Data Science & Supply Chain Analytics  
 **Author:** Luca Gozzi  
-**Date:** November 3, 2025  
+**Date:** November 5, 2025  
 
 ## Project Title
 CSV Data Explorer for Supply Chain: Multi location Inventory Consolidation, Shipment Tracking & Vendor Performance Analytics  
@@ -16,7 +16,7 @@ To maximize real world relevance, this project is designed for professionals who
 - Technology consulting teams specializing in supply chain digitalization  
 - Vendor relationship or quality managers evaluating supplier performance  
 
-**Ultimate Goal:** The project aims to deliver a practical, modular tool that automates CSV integration and analysis across fragmented supply chain systems. By solving tangible issues—such as inventory imbalances, delayed shipments, and subjective vendor assessments the tool enables managers to make faster, data-driven decisions, resulting in:
+**Ultimate Goal:** The project aims to deliver a practical, modular tool that automates CSV integration and analysis across fragmented supply chain systems. By solving tangible issues such as inventory imbalances, delayed shipments, and subjective vendor assessments the tool enables managers to make faster, data-driven decisions, resulting in:
 - Reduced inventory costs and shortages
 - Improved shipment punctuality
 - Transparent and objective vendor evaluations
@@ -53,8 +53,6 @@ The project follows a modular architecture:
 - **Large file processing:**  
   *Solution*: Efficient chunked loading, optimized data types
 - **Algorithm complexity (Pareto, statistics):**
-  
-  *Solution*: Incremental development, vectorized operations, and rigorous code review
 
 ## Success Criteria
 
