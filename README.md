@@ -9,7 +9,7 @@ CSV Data Explorer for Supply Chain: Multi location Inventory Consolidation, Ship
 ## Final Users and Ultimate Goals
 
 **Final Users:**
-To maximize real-world relevance, this project is designed for professionals who routinely manage and optimize complex, fragmented supply chains. The following user groups represent those who will benefit most from automated CSV integration and actionable analytics:
+To maximize real world relevance, this project is designed for professionals who routinely manage and optimize complex, fragmented supply chains. The following user groups represent those who will benefit most from automated CSV integration and actionable analytics:
 - Supply chain managers in medium to large enterprises  
 - Logistics analysts within multinational companies  
 - Data scientists/operations researchers supporting inventory and shipment optimization  
