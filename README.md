@@ -4,7 +4,7 @@
 **Date:** November 5, 2025  
 
 ## Project Title
-CSV Data Explorer for Supply Chain: Multi location Inventory Consolidation, Shipment Tracking & Vendor Performance Analytics  
+**CSV Data Explorer for Supply Chain: Multi location Inventory Consolidation, Shipment Tracking & Vendor Performance Analytics**
 
 ## Final Users and Ultimate Goals
 
