@@ -1,0 +1,4 @@
+Model,Dataset,accuracy,precision,recall,f1_score,roc_auc,threshold_used,specificity
+logistic_regression (t=0.45),test,0.6921,0.8449,0.5394,0.6584,0.7303,0.45,0.8789
+random_forest (t=0.60),test,0.691,0.8439,0.538,0.6571,0.7253,0.6,0.8782
+xgboost (t=0.60),test,0.6871,0.8437,0.5293,0.6505,0.7233,0.6,0.88

@@ -1,0 +1,144 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# =========================
+# IDE and Editors
+# =========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# =========================
+# Operating System
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# =========================
+# Testing and Coverage
+# =========================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# =========================
+# Type Checking
+# =========================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# =========================
+# Distribution / Packaging
+# =========================
+*.manifest
+*.spec
+
+# =========================
+# Large Model Files
+# =========================
+# Random Forest model is too large for GitHub (228 MB)
+# Users should retrain using: python -m src.main --mode full
+models/random_forest.pkl
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+log/
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.bak
+tmp/
+temp/
+
+# =========================
+# Data Files (optional)
+# =========================
+# Uncomment if you don't want to upload the dataset
+# data/raw/*.csv
+# data/processed/*.csv
+
+# =========================
+# Secrets and Config
+# =========================
+.env
+.env.local
+.env.*.local
+*.pem
+secrets.yaml
+secrets.json
+
+# =========================
+# Nuvolos Specific
+# =========================
+.nuvolos/
+.virtual_documents/
+supply_chain_explorer.egg-info/

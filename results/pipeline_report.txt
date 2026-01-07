@@ -1,0 +1,34 @@
+============================================================
+SUPPLY CHAIN EXPLORER - PIPELINE REPORT
+============================================================
+
+Generated: 2026-01-05 06:48:19
+
+Status: success
+
+STAGES:
+----------------------------------------
+
+LOAD:
+  status: success
+  rows: 180519
+
+VALIDATE:
+  status: success
+  is_valid: True
+
+PREPROCESS:
+  status: success
+  shape: (180519, 35)
+
+FEATURES:
+  status: success
+  shape: (180519, 64)
+
+TRAIN:
+  status: skipped
+  action: models exist
+
+EVALUATE:
+  status: success
+  models_evaluated: 3

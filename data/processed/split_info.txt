@@ -1,0 +1,21 @@
+============================================================
+DATA SPLIT SUMMARY
+============================================================
+Total samples: 180,519
+------------------------------------------------------------
+Training set:   126,363 (70.0%)
+Validation set: 27,078 (15.0%)
+Test set:       27,078 (15.0%)
+------------------------------------------------------------
+SPLIT DETAILS:
+  method: time-based
+  date_column: order date (DateOrders)
+  train_date_range: 2015-01-01 00:00:00 to 2017-01-08 02:49:00
+  validation_date_range: 2017-01-08 02:49:00 to 2017-06-14 07:19:00
+  test_date_range: 2017-06-14 07:19:00 to 2018-01-31 23:38:00
+------------------------------------------------------------
+TARGET DISTRIBUTION (Late_delivery_risk=1):
+  Train: 54.9% late deliveries
+  Validation: 54.1% late deliveries
+  Test: 55.0% late deliveries
+============================================================
